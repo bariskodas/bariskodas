@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Barış</h1>
+<h1 align="center">Hi 👋🏻, I'm Barış</h1>
 <h3 align="center">A mobile developer from Turkey 🇹🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bariskodas&label=Profile%20views&color=0e75b6&style=flat" alt="bariskodas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bariskodas" target="blank"><img src="https://img.shields.io/twitter/follow/bariskodas?logo=twitter&style=for-the-badge" alt="bariskodas" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/bariskodas" target="blank"><img src="https://img.shields.io/twitter/follow/b_kodas?logo=twitter&style=for-the-badge" alt="b_kodas" /></a> </p>
 
 - 🔭 I’m currently working on **Dart, Flutter, Altogic projects**
 
