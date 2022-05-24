@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **@b_kodas on Twitter.**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bariskodas/](https://www.linkedin.com/in/bariskodas/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
