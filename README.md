@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/bariskodas" target="blank"><img src="https://img.shields.io/twitter/follow/b_kodas?logo=twitter&style=for-the-badge" alt="b_kodas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/b_kodas" target="blank"><img src="https://img.shields.io/twitter/follow/b_kodas?logo=twitter&style=for-the-badge" alt="b_kodas" /></a> </p>
 
 - 🔭 I’m currently working on **Dart, Flutter, Altogic projects**
 
