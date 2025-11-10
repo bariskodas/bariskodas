@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Barış</h1>
-  <p>A mobile developer from Turkey 🇹🇷</p>
+  <p>A software developer from Turkey 🇹🇷</p>
 </div>
 
 ---
